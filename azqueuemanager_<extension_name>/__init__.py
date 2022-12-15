@@ -32,7 +32,7 @@ class MYEXTENSION(ExtensionBaseClass):
             yield item
 
     
-    def transform_in_place(self, data: str):
+    def transform_preview(self, data: str):
         """
         This method assists with creating previews.
         This is shouldn't send data to a response but provide a preview of the data that will be sent to the queue.
