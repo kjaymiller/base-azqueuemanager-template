@@ -22,8 +22,8 @@
 		"vscode": {
 			"extensions": [
 				"ms-python.python",
-				"ms-vscode.vscode-node-azure-pack"
-				"eamodio.gitlens",
+				"ms-vscode.vscode-node-azure-pack",
+				"eamodio.gitlens"
 			]
 		}
 	},
